@@ -9,11 +9,5 @@ line7
 topic-A
 
 topic-B
-topic-B
-topic-B
-topic-B
-topic-B
-topic-B
-topic-B
 
 topic-C
